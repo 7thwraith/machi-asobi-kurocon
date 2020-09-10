@@ -1,5 +1,5 @@
 ## Machi Asobi Starter Pack
-Eventing? Sightseeing? Why not both?
+KuroCon Vol.2
 
 
 
@@ -7,11 +7,11 @@ Eventing? Sightseeing? Why not both?
 * JT (Twitter: @7thwraith )
 * Casual Fan of Many Things
 
-    * Idolm@ster, Wake Up, Girls, the list goes on
+    * Idolm@ster, Wake Up, Girls
     * Voice Actresses: example Reina Ueda (Ueshama)
+    * Seeing above -[in the flesh] in person
 
 * ABSOLUTELY NOT Nihongo Jouzu
-* Missed WUG Final because plane turned around
 
 
 ## About Me @ Machi Asobi
@@ -61,11 +61,16 @@ Eventing? Sightseeing? Why not both?
 <iframe width="900" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=134.35283660888675%2C33.92826330143173%2C134.806022644043%2C34.179145513780455&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small>
 
 
-## Brief History and Overview
+## Very Brief Background
 * Made possible by partnership between two entities
     * Producer
     * Sponsor
-* Vol.1 was held in October 2009
+
+
+    
+## Vol.1 was held in October 2009
+* Producer: Ufotable Tokushima Studio
+* Tokushima City Tourism Assoication
 
 
 ## Machi Asobi: Entertainment Event
@@ -76,4 +81,4 @@ Eventing? Sightseeing? Why not both?
 
 
 
-# When to 
+## When to 
