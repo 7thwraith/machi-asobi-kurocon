@@ -4,23 +4,67 @@ KuroCon Vol.2
 
 
 ## About Me
-* JT (Twitter: @7thwraith )
-* Casual Fan of Many Things
 
-    * Idolm@ster, Wake Up, Girls
-    * Voice Actresses: example Reina Ueda (Ueshama)
-    * Seeing above -[in the flesh] in person
+<style>
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+}
+</style>
 
-* ABSOLUTELY NOT Nihongo Jouzu
+<div class="container">
+
+<div class="col">
+
+![](img/about-me.jpg)
+
+</div>
+
+<div class="col">
+
+* JT (Twitter: @7thwraith )  <!-- .element: class="fragment" data-fragment-index="1" -->
+* Casual Fan  <!-- .element: class="fragment" data-fragment-index="2" -->
+    * Idolm@ster, Wake Up, Girls  <!-- .element: class="fragment" data-fragment-index="3" -->
+    * Voice Actresses (e.g. Reina Ueda) <!-- .element: class="fragment" data-fragment-index="4" -->
+    * Anison artists/bands     <!-- .element: class="fragment" data-fragment-index="5" -->
+    * Seeing above in person    <!-- .element: class="fragment" data-fragment-index="6" -->
+* ABSOLUTELY NOT Nihongo Jouzu   <!-- .element: class="fragment" data-fragment-index="7" -->
+
+</div>
+
+</div>
 
 
 ## About Me @ Machi Asobi
-* First Machi Asobi: Machi Asobi Vol. 13 (October 2014)
-    * Discovered from Tokyo Game Show 2014 - Hanayamata Stage Livestream
+<style>
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+}
+</style>
 
-    * First in circle of friends to attend
+<div class="container">
 
-* Last Machi Asobi: Machi Asobi Vol.  21 (October 2018)
+<div class="col">
+
+* First Machi Asobi: Machi Asobi Vol. 13 (Oct 2014) <!-- .element: class="fragment" data-fragment-index="1" -->
+    * Discovered from TGS2014 - Hanayamata Stage Livestream <!-- .element: class="fragment" data-fragment-index="2" -->
+    * First in circle of friends to attend <!-- .element: class="fragment" data-fragment-index="3" -->
+* Last Machi Asobi: Machi Asobi Vol.  21 (Oct 2018) <!-- .element: class="fragment" data-fragment-index="4" -->
+</div>
+
+<div class="col">
+
+![](img/hnayamata.jpg)
+
+</div>
+
+</div>
+
 
 
 
@@ -68,17 +112,26 @@ KuroCon Vol.2
 
 
     
-## Vol.1 was held in October 2009
-* Producer: Ufotable Tokushima Studio
-* Tokushima City Tourism Assoication
+## Notable Volumes
+* Vol.1
+    * Oct 2009
+    * Producer: Ufotable Tokushima Studio
+    * Tokushima City Tourism Association
 
 
-## Machi Asobi: Entertainment Event
-
-
-
-## Why you would go
+## Anime Tourism
 
 
 
-## When to 
+## Why you should go
+* Unique experience
+* Great value
+
+
+
+
+## Planning Considerations
+* Dates
+    * Spring vs Fall Machi Asobi
+    * Lodging
+    * Weather conditions
