@@ -1,4 +1,4 @@
-## Machi Asobi Starter Pack
+## Machi Asobi Mini Crash Course
 KuroCon Vol.2
 
 
@@ -59,7 +59,7 @@ KuroCon Vol.2
 
 <div class="col">
 
-![](img/hnayamata.jpg)
+![](img/hanayamata.jpg)
 
 </div>
 
@@ -77,24 +77,29 @@ KuroCon Vol.2
 
 * How to get there
 
-
-
-
-## Before we move along...
-
-
-## How many of you have heard of Machi Asobi?
-
-
-## How many of you have actually been to Machi Asobi?
+* Things to do
 
 
 
 ## What is Machi Asobi?
 
 
-## Machi Asobi (stylized as マチ★アソビ)
-* "Entertainment event"
+## Machi Asobi 
+* stylized as マチ★アソビ
+* Entertainment event for anime fans involving big names in the anime and other related industry, <u>with a twist</u>!
+
+<div class="r-stack">
+  <img class="fragment" src="img/concert.jpg">
+  <img class="fragment" src="img/cosplay.jpg">
+  <img class="fragment" src="img/itasha.jpg">
+  <img class="fragment" src="img/screenings.jpg">
+  <img class="fragment" src="img/merch.jpg">
+  <img class="fragment" src="img/what.jpg">
+  
+</div>
+
+
+## Machi Asobi 
 * Held twice a year
     * Used to be thrice a year until 2011
 * Tokushima (City), Tokushima Prefecture
@@ -105,33 +110,160 @@ KuroCon Vol.2
 <iframe width="900" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=134.35283660888675%2C33.92826330143173%2C134.806022644043%2C34.179145513780455&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small>
 
 
-## Very Brief Background
-* Made possible by partnership between two entities
+## This event is made possible by...
+* Partnership between
     * Producer
     * Sponsor
+    * Organizer
 
 
-    
-## Notable Volumes
-* Vol.1
-    * Oct 2009
-    * Producer: Ufotable Tokushima Studio
-    * Tokushima City Tourism Association
+
+
+## Notable Producers
+
+![](img/ufotable_tokushima_logo.gif)
+
+<div class="r-stack">
+
+  <img class="fragment" src="img/codevein.jpg">
+
+  <img class="fragment" src="img/kny.jpg">
+
+  <img class="fragment" src="img/fsnhf.jpg">
+
+</div>
+
+
+## Some Notable Producers
+
+![](img/studio-mausu.png)
+<div class="r-stack">
+  <img class="fragment" src="img/pingpong.jpg">
+  <img class="fragment" src="img/aikatsu.jpg">
+  <img class="fragment" src="img/kaminai.jpg">
+  <img class="fragment" src="img/yns.jpg">
+  
+</div>
+
+
+## Notable Sponsors and Organizers
+
+| Tokushima City          | NHK Tokushima                      | Tokushima Shinbun                  | Shikoku Broadcasting               |
+|-------------------------|------------------------------------|------------------------------------|------------------------------------|
+| Agency Cultural Affairs | Tokushima City Tourism Association | Anime Festival Executive Committee | Tokushima City Tourism Association |
+
+
+
+## Why you should go (in a nutshell)
+
+### Unique experience <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 ## Anime Tourism
+<div class="r-stack">
+  <img class="fragment" src="img/ropeway.jpg">
+  <img class="fragment" src="img/bridge.jpg"> 
+</div>
 
 
+## Great Value
+* Eventing? Tourism?
+* E-sports
 
-## Why you should go
-* Unique experience
-* Great value
 
+## Chill
 
 
 
 ## Planning Considerations
-* Dates
-    * Spring vs Fall Machi Asobi
-    * Lodging
-    * Weather conditions
+
+
+## Dates
+* Spring vs Fall Machi Asobi
+* Lodging
+    * Unavailabilties
+* Weather conditions
+    * Typhoon
+
+
+## Transportation
+
+Getting In
+
+| **MODE** | **Plane** | **Train** | **Bus** | **Ferry** |
+|-|-|-|-|-|
+| **ORIGIN** | -- | -- | -- | -- |
+| **Tokyo** | ANA, JAL (1h10m) | JR (LOL) | Tokushima Bus, etc (9h40m) | Ocean East (18h20m) |
+| **Osaka** |  | JR (3h20m) | Tokushima Bus, etc. (2h25m) | Nakai Ferry (2h15m)|
+
+
+## Transportation
+
+Getting around
+* Just Walk!
+* Maybe go rent a bike
+
+
+
+## Activity Map
+<iframe src="https://www.google.com/maps/d/embed?mid=1nOBYUhrzbY6neNpMtd70P8CDVZgpp9QY" width="1800" height="570"></iframe>
+
+
+
+## Machi Asobi Projects
+* Art Gallery Under the Bridge
+* Digital Creator Human Resources Discovery Semina
+* Newtype x Machi Asobi - Newtype Anime Award
+* ufotable industry talk event
+* Other Projects different for each Machi Asobi
+
+
+
+## Local Specialties
+<style>
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+}
+</style>
+
+<div class="container">
+
+<div class="col">
+
+![](img/eriko-ichigo.jpg)
+![](img/sudachi.jpg)
+
+</div>
+
+<div class="col">
+
+![](img/sushi.jpg)
+![](img/kintoki.jpg)
+
+</div>
+
+</div>
+
+
+
+## Recap
+
+* Attend Machi Asobi
+    * Anime Tourism
+    * Enjoy the unique experience
+
+* Plan your itinerary carefully
+
+* Hope to you there soon (someday)
+
+## Questions
+
+and hopefully answers
+
+## Thank You for Attending!
+
+Enjoy the rest of KuroCon!!
+
