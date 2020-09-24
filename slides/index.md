@@ -265,6 +265,8 @@ Getting around
 
 and hopefully answers
 
+
+
 ## Thank You for Attending!
 
 Enjoy the rest of KuroCon!!
