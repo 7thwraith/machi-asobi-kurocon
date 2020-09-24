@@ -24,9 +24,9 @@ KuroCon Vol.2
 
 <div class="col">
 
-* JT (Twitter: @7thwraith )  <!-- .element: class="fragment" data-fragment-index="1" -->
+* JT (SNS: @7thwraith )  <!-- .element: class="fragment" data-fragment-index="1" -->
 * Casual Fan  <!-- .element: class="fragment" data-fragment-index="2" -->
-    * Idolm@ster, Wake Up, Girls  <!-- .element: class="fragment" data-fragment-index="3" -->
+    * Idolm@ster, Wake Up, Girls, etc.  <!-- .element: class="fragment" data-fragment-index="3" -->
     * Voice Actresses (e.g. Reina Ueda) <!-- .element: class="fragment" data-fragment-index="4" -->
     * Anison artists/bands     <!-- .element: class="fragment" data-fragment-index="5" -->
     * Seeing above in person    <!-- .element: class="fragment" data-fragment-index="6" -->
@@ -258,6 +258,8 @@ Getting around
 * Plan your itinerary carefully
 
 * Hope to you there soon (someday)
+
+
 
 ## Questions
 
