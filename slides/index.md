@@ -163,15 +163,25 @@ KuroCon Vol.2
 <div class="r-stack">
   <img class="fragment" src="img/ropeway.jpg">
   <img class="fragment" src="img/bridge.jpg"> 
+  <img class="fragment" src="img/boardwalk-stage.jpg"> 
 </div>
 
 
 ## Great Value
-* Eventing? Tourism?
+* Eventing? Tourism? Both?
 * E-sports
+    * "E" stands for eventing <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
-## Chill
+## Eventful interactions
+<div class="r-stack">
+  <img class="fragment" src="img/various-watashikai.jpg">
+  <img class="fragment" src="img/hanayamata-wtsk.jpg"> 
+  <img class="fragment" src="img/ufo-gallery.jpg">
+  <img class="fragment" src="img/3d-kanojo-sign.jpg"> 
+  
+</div>
+
 
 
 
@@ -183,7 +193,7 @@ KuroCon Vol.2
 * Lodging
     * Unavailabilties
 * Weather conditions
-    * Typhoon
+    * Typhoon (Fall Machi Asobi only)
 
 
 ## Transportation
@@ -193,15 +203,16 @@ Getting In
 | **MODE** | **Plane** | **Train** | **Bus** | **Ferry** |
 |-|-|-|-|-|
 | **ORIGIN** | -- | -- | -- | -- |
-| **Tokyo** | ANA, JAL (1h10m) | JR (LOL) | Tokushima Bus, etc (9h40m) | Ocean East (18h20m) |
+| **Tokyo** | ANA, JAL (1h10m) | JR (6h2m) | Tokushima Bus, etc (9h40m) | Ocean East (18h20m) |
 | **Osaka** |  | JR (3h20m) | Tokushima Bus, etc. (2h25m) | Nakai Ferry (2h15m)|
 
 
 ## Transportation
 
 Getting around
-* Just Walk!
-* Maybe go rent a bike
+* Just Walk! <!-- .element: class="fragment" data-fragment-index="1" -->
+* Maybe go rent a bike <!-- .element: class="fragment" data-fragment-index="2" -->
+    * Electric bikes go go <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
@@ -212,7 +223,7 @@ Getting around
 
 ## Machi Asobi Projects
 * Art Gallery Under the Bridge
-* Digital Creator Human Resources Discovery Semina
+* Digital Creator Human Resources Discovery Seminar
 * Newtype x Machi Asobi - Newtype Anime Award
 * ufotable industry talk event
 * Other Projects different for each Machi Asobi
