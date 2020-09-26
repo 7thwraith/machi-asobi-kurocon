@@ -101,6 +101,7 @@ KuroCon Vol.2
 
 ## Machi Asobi 
 * Held twice a year
+    * Vol. 1 held on October 2009
     * Used to be thrice a year until 2011
 * Tokushima (City), Tokushima Prefecture
 
@@ -119,7 +120,7 @@ KuroCon Vol.2
 
 
 
-## Notable Producers
+## Notable Producers (pre-Vol.21)
 
 ![](img/ufotable_tokushima_logo.gif)
 
@@ -134,7 +135,7 @@ KuroCon Vol.2
 </div>
 
 
-## Some Notable Producers
+## Some Notable Producers (Vol.21 - present)
 
 ![](img/studio-mausu.png)
 <div class="r-stack">
